@@ -1,6 +1,6 @@
 # Host-Behaviour-Analysis
 
-This project is based on analysing hosts of property rental and understanding the features on what makes a host superhost, so that the number of superhosts can be increased in order to grow the business. This analysis show inn what aspects hosts can work on so as to improve the rentyal business. Analyis is done on two of italy's city Venice and Rome So, this repository contains <strong>Exploratory Data Analysis</strong> of Hosts behaviour using SQL (Structured Query Language).
+This project is based on analysing hosts of property rental and understanding the features on what makes a host superhost, so that the number of superhosts can be increased in order to grow the business. This analysis shows,in what aspects hosts can work on so as to improve the rentyal business. Analyis is done on two of italy's city Venice and Rome So, this repository contains <strong>Exploratory Data Analysis</strong> of Hosts behaviour using SQL (Structured Query Language), The analysis part is done in SQL and Dashboard has been made using Excel.
 
 <br>
 <br>
@@ -10,9 +10,11 @@ This project is based on analysing hosts of property rental and understanding th
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **Dataset Folder** | This folder provides you two folders i.e Rome and Venice which contains datasets related to respective ciy in csv format.  |
-| **Analyses Folder** | This folder contains 1 PDF file i.e Analysis of the questions asked and insights for the same.|
-| **Host_Behaviour_Analysis_SQL File**  | This file provides you .sql format file which you can download and work on analysis using MS-SQL platform.  |
+| **Data Folder** | This folder provides you a pdfgf file with link of the drive containing dataset of different countries in csv format.  |
+| **Excel Files Folder** | This folder contains Dasboard of the project and schema of dataset.|
+| **Powerpoint Presentation Folder** | This folder contains project presentation and project overview file in ppt format.|
+| **Rome File**  | This file provides you .sql format file which you can download and work on analysis using MS-SQL platform.  |
+| **Venice File**  | This file provides you .sql format file which you can download and work on analysis using MS-SQL platform.  |
 
 <br>
 
