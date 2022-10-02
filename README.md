@@ -10,7 +10,7 @@ This project is based on analysing hosts of property rental and understanding th
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **Data Folder** | This folder provides you a pdfgf file with link of the drive containing dataset of different countries in csv format.  |
+| **Data Folder** | This folder provides you a .md  file with link of the drive containing dataset of different countries in csv format.  |
 | **Excel Files Folder** | This folder contains Dasboard of the project and schema of dataset.|
 | **Powerpoint Presentation Folder** | This folder contains project presentation and project overview file in ppt format.|
 | **Rome File**  | This file provides you .sql format file which you can download and work on analysis using MS-SQL platform.  |
