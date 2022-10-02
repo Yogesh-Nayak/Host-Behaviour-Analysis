@@ -9,8 +9,7 @@ This project is based on analysing hosts of property rental and understanding th
 ##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
 
 | Files/Folder| Description |
-| ------------- | ------------- |![combo-chart--v2](https://user-images.githubusercontent.com/79314126/193458808-bf68bd38-18b6-47fa-93d0-1f568e27884c.png)
-
+| ------------- | ------------- |
 | **Data Folder** | This folder provides you a pdfgf file with link of the drive containing dataset of different countries in csv format.  |
 | **Excel Files Folder** | This folder contains Dasboard of the project and schema of dataset.|
 | **Powerpoint Presentation Folder** | This folder contains project presentation and project overview file in ppt format.|
