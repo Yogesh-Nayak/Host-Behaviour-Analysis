@@ -9,7 +9,8 @@ This project is based on analysing hosts of property rental and understanding th
 ##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
 
 | Files/Folder| Description |
-| ------------- | ------------- |
+| ------------- | ------------- |![combo-chart--v2](https://user-images.githubusercontent.com/79314126/193458808-bf68bd38-18b6-47fa-93d0-1f568e27884c.png)
+
 | **Data Folder** | This folder provides you a pdfgf file with link of the drive containing dataset of different countries in csv format.  |
 | **Excel Files Folder** | This folder contains Dasboard of the project and schema of dataset.|
 | **Powerpoint Presentation Folder** | This folder contains project presentation and project overview file in ppt format.|
@@ -67,10 +68,11 @@ Must browse through from each folder of this repository must start with:
 
 <p align="center"><img src="https://user-images.githubusercontent.com/79314126/193398934-8ac81bc1-a613-4965-8524-b94934d4d229.png" width="700" height="500"></p>
 
-
-   
-
-
 ## <img src="https://camo.githubusercontent.com/8bfbb088aa00c5c27dc669218964a44b4e5d5e9010aa641028b55dc1eacd479b/68747470733a2f2f696d672e69636f6e73382e636f6d2f6475736b2f34382f3030303030302f696f732d73637265656e73686f742e706e67" width="70" height="48"/> Screenshots
 
 <p align="center"><a><img src="https://user-images.githubusercontent.com/79314126/193399600-8f21086a-e302-423b-8ca0-9521c1e62ecb.gif"</a></p>
+   
+## <img src="https://user-images.githubusercontent.com/79314126/193458979-95e4fa29-b7c9-4120-a62c-6bbfc62dac66.png" width="70" height="48"/> Dashboard
+
+<p align="center"><a><img src="https://user-images.githubusercontent.com/79314126/193459104-d04b33ae-a03c-4b2a-81f0-8a90333bc768.png"</a></p>
+
