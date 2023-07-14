@@ -78,11 +78,18 @@ Must browse through from each folder of this repository must start with:
 ## Conclusion:
 
 **FROM ABOVE ANALYSIS FOLLOWING CONCLUSIONS VAN BE MADE:**
-- FOR A HOST TO BECOME SUPERHOST CRUCIAL FACTORS ARE RESPONSE RATE, RESPONSE TIME, ACCEPTANCE RATE. 
-- Maximum number of Super hosts Responses to the customer in within an hour.
-- Super Hosts has a large number of Acceptance rate than that of Normal hosts.
-- Listing Price Of super hosts is less than normal Hosts.
-- No of Comments is Greater for Super Host than that of Normal Host.
-- Super hosts Instant booking rate is more than normal hosts.
-- Super Hosts have their identify verified at a greater rate than that of Normal hosts.
+
+      o    FOR A HOST TO BECOME SUPERHOST CRUCIAL FACTORS ARE RESPONSE RATE, RESPONSE TIME, ACCEPTANCE RATE.
+      
+      o    Maximum number of Super hosts Responses to the customer in within an hour.
+      
+      o    Super Hosts has a large number of Acceptance rate than that of Normal hosts.
+      
+      o    Listing Price Of super hosts is less than normal Hosts.
+      
+      o    No of Comments is Greater for Super Host than that of Normal Host.
+      
+      o    Super hosts Instant booking rate is more than normal hosts.
+      
+      o    Super Hosts have their identify verified at a greater rate than that of Normal hosts.
 
